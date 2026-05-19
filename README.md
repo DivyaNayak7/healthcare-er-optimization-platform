@@ -368,9 +368,6 @@ healthcare-er-optimization-platform/
 ├── README.md
 └── requirements.txt
 ```
-```
-
----
 
 # Future Improvements
 
