@@ -377,13 +377,14 @@ Human clinical oversight would be required in any real-world deployment.
 
 ---
 
-# Author
+# About This Project
 
-Healthcare Analytics + LLM Alignment Engineering Project
+This project explores the intersection of:
 
-Focused on:
+- healthcare utilization analytics
+- privacy-preserving machine learning
+- explainable AI
+- healthcare-safe LLM alignment
+- operational healthcare intelligence
 
-* healthcare AI systems
-* responsible LLM alignment
-* evaluation engineering
-* privacy-preserving analytics
+The platform was designed as an end-to-end applied AI system combining predictive analytics, financial impact modeling, governance evaluation, and alignment experimentation using synthetic healthcare claims data.
