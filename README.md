@@ -331,19 +331,43 @@ rather than simply producing a fine-tuned model.
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```text
-├── 01_synthetic_claims_generation.ipynb
-├── 02_member_feature_engineering.ipynb
-├── 03_model_training_and_shap.ipynb
-├── 04_utilization_strategy_and_financial_impact.ipynb
-├── 06_privacy_risk_and_utility_validation.ipynb
-├── phase8.ipynb
-├── Emergency Room Performance & Cost Optimization dashboard.pbix
-├── Emergency Room Utilization Optimization Strategy.pdf
-├── privacy_report.pdf
-└── README.md
+healthcare-er-optimization-platform/
+
+├── dashboard/
+│   ├── Emergency Room Performance & Cost Optimization dashboard.pbix
+│   └── Emergency Room Performance & Cost Optimization dashboard.pdf
+│
+├── data/
+│   └── synthetic healthcare claims and feature datasets
+│
+├── models/
+│   └── lgbm_avoidable_er_model_final.pkl
+│
+├── notebooks/
+│   ├── 01_synthetic_claims_generation.ipynb
+│   ├── 02_member_feature_engineering.ipynb
+│   ├── 03_model_training_and_shap.ipynb
+│   ├── 04_utilization_strategy_and_financial_impact.ipynb
+│   ├── 06_privacy_risk_and_utility_validation.ipynb
+│   └── phase8.ipynb
+│
+├── outputs/
+│   ├── provider_er_metrics.csv
+│   ├── risk_breakdown.csv
+│   ├── scenario_analysis.csv
+│   ├── privacy_metrics.json
+│   └── utility_metrics.json
+│
+├── reports/
+│   ├── Emergency Room Utilization Optimization Strategy.pdf
+│   └── privacy_report.pdf
+│
+├── README.md
+└── requirements.txt
+```
 ```
 
 ---
