@@ -1,0 +1,4 @@
+risk_level,avoidable_er_visits,avoidable_er_cost,cost_share_%
+Low,19029,28211326.323109236,0.2617
+Medium,14237,21006373.143592082,0.1948
+High,10570,58590511.784756966,0.5435

@@ -1,0 +1,9 @@
+{
+    "claim_level_k_min": 570,
+    "member_level_k_min": 186,
+    "l_diversity_risk_level": 3,
+    "l_diversity_behavioral_flag": 2,
+    "l_diversity_admission_flag": 2,
+    "t_closeness_max": 0.3712068050677795,
+    "max_dominance": 0.7072053311120367
+}

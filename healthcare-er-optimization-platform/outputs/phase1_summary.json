@@ -1,0 +1,11 @@
+{
+    "n_members": 50000,
+    "n_claims": 521314,
+    "avg_claims_per_member": 10.42628,
+    "risk_distribution": {
+        "Low": 0.65,
+        "Medium": 0.25,
+        "High": 0.1
+    },
+    "top10_cost_share": 0.5608124814971618
+}
