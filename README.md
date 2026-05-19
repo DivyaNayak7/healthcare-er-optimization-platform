@@ -40,22 +40,22 @@ The system was designed to simulate a real-world healthcare analytics and AI ali
 # Project Architecture
 
 ```text
-Synthetic Claims Generation
+Synthetic Claims Data
         ↓
-Member Feature Engineering
+Feature Engineering
         ↓
-Risk Prediction Modeling
+LightGBM Risk Prediction
         ↓
-Financial Impact Analysis
+SHAP Explainability
         ↓
-Privacy Risk Validation
+Financial Impact Modeling
         ↓
-Healthcare LLM Alignment (QLoRA)
+Privacy Validation
         ↓
-Automated Evaluation & Tradeoff Analysis
+Dashboard + Reporting
+        ↓
+Healthcare LLM Alignment
 ```
-
----
 
 # Project Components
 
